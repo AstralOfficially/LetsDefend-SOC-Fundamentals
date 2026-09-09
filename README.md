@@ -1,7 +1,9 @@
 # LetsDefend - SOC Fundamentals Notes
+<a href="https://www.youtube.com/watch?v=RfjvpHFLYSw"> <img src="https://img.shields.io/badge/-Youtube-CD201F?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 ## 1. What is a SOC?
 A **Security Operations Center (SOC)** is a centralized organizational unit responsible for continuously monitoring, analyzing, detecting, and responding to cybersecurity incidents using a coordinated triad of **People, Process, and Technology**.
+
 
 ---
 
@@ -59,3 +61,5 @@ A **Security Operations Center (SOC)** is a centralized organizational unit resp
 * Relying exclusively on sandbox scores without dynamic behavioral verification (malware may be sandbox-aware).
 * Investigating an alert in isolation without checking whether other endpoints communicated with the same C2 indicators.
 * Treating historical threat intelligence as static (reputation changes as IPs/domains are repurposed).
+
+<a href="https://www.youtube.com/watch?v=RfjvpHFLYSw"> <img src="https://img.shields.io/badge/-Youtube-CD201F?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
